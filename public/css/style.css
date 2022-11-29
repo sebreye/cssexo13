@@ -1,0 +1,17 @@
+section{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    padding-top: 230px
+}
+div{
+    width: 300px;
+    height: 30%;
+    background-color: orangered;
+
+}
+p{
+    text-align: center;
+}
+div1
